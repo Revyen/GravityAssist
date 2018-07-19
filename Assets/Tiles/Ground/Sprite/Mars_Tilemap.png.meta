@@ -1,0 +1,1125 @@
+fileFormatVersion: 2
+guid: 602da3012d08dd54dafac15352d78b85
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Mars_Tilemap_0
+    21300002: Mars_Tilemap_1
+    21300004: Mars_Tilemap_2
+    21300006: Mars_Tilemap_3
+    21300008: Mars_Tilemap_4
+    21300010: Mars_Tilemap_5
+    21300012: Mars_Tilemap_6
+    21300014: Mars_Tilemap_7
+    21300016: Mars_Tilemap_8
+    21300018: Mars_Tilemap_9
+    21300020: Mars_Tilemap_10
+    21300022: Mars_Tilemap_11
+    21300024: Mars_Tilemap_12
+    21300026: Mars_Tilemap_13
+    21300028: Mars_Tilemap_14
+    21300030: Mars_Tilemap_15
+    21300032: Mars_Tilemap_16
+    21300034: Mars_Tilemap_17
+    21300036: Mars_Tilemap_18
+    21300038: Mars_Tilemap_19
+    21300040: Mars_Tilemap_20
+    21300042: Mars_Tilemap_21
+    21300044: Mars_Tilemap_22
+    21300046: Mars_Tilemap_23
+    21300048: Mars_Tilemap_24
+    21300050: Mars_Tilemap_25
+    21300052: Mars_Tilemap_26
+    21300054: Mars_Tilemap_27
+    21300056: Mars_Tilemap_28
+    21300058: Mars_Tilemap_29
+    21300060: Mars_Tilemap_30
+    21300062: Mars_Tilemap_31
+    21300064: Mars_Tilemap_32
+    21300066: Mars_Tilemap_33
+    21300068: Mars_Tilemap_34
+    21300070: Mars_Tilemap_35
+    21300072: Mars_Tilemap_36
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 31.99
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mars_Tilemap_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db8290700dc3174896e83555478ab2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 9, y: -15}
+        - {x: 4, y: -15}
+        - {x: 2, y: -13}
+        - {x: -1, y: -13}
+        - {x: -2, y: -14}
+        - {x: -5, y: -14}
+        - {x: -6, y: -15}
+        - {x: -16, y: -15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -15}
+        - {x: 15, y: -15}
+        - {x: 14, y: -14}
+        - {x: 10, y: -14}
+      tessellationDetail: 1
+      bones: []
+      spriteID: a5fa091a0eb241e43a760ccb815770ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -8}
+        - {x: 14, y: -9}
+        - {x: 13, y: -11}
+        - {x: 12, y: -10}
+        - {x: 10, y: -8}
+        - {x: 8, y: -8}
+        - {x: 7, y: -9}
+        - {x: 5, y: -8}
+        - {x: 3, y: -8}
+        - {x: 1, y: -9}
+        - {x: 0, y: -10}
+        - {x: -5, y: -10}
+        - {x: -6, y: -9}
+        - {x: -14, y: -9}
+        - {x: -15, y: -8}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e031269ecdde3e4a9d4bb94cf61570d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 0}
+        - {x: 14, y: -1}
+        - {x: 13, y: -2}
+        - {x: 11, y: -2}
+        - {x: 9, y: 0}
+        - {x: 8, y: 0}
+        - {x: 5, y: -3}
+        - {x: 3, y: -2}
+        - {x: 0, y: -2}
+        - {x: -3, y: -3}
+        - {x: -5, y: -4}
+        - {x: -6, y: -5}
+        - {x: -8, y: -4}
+        - {x: -11, y: -3}
+        - {x: -12, y: -3}
+        - {x: -15, y: 0}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f63493ecc8b9c9747b9b7e73961526f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 8}
+        - {x: 13, y: 6}
+        - {x: 11, y: 7}
+        - {x: 6, y: 8}
+        - {x: 3, y: 8}
+        - {x: 0, y: 7}
+        - {x: -1, y: 6}
+        - {x: -4, y: 6}
+        - {x: -5, y: 7}
+        - {x: -7, y: 7}
+        - {x: -8, y: 6}
+        - {x: -11, y: 6}
+        - {x: -12, y: 7}
+        - {x: -14, y: 7}
+        - {x: -15, y: 8}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5e5eaba7151b9438adc620ad6e9160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 16}
+        - {x: 14, y: 15}
+        - {x: 11, y: 16}
+        - {x: 8, y: 16}
+        - {x: 3, y: 15}
+        - {x: 0, y: 14}
+        - {x: -1, y: 13}
+        - {x: -3, y: 14}
+        - {x: -4, y: 16}
+        - {x: -5, y: 16}
+        - {x: -6, y: 15}
+        - {x: -7, y: 14}
+        - {x: -9, y: 15}
+        - {x: -11, y: 15}
+        - {x: -12.035065, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3bb94ab7cfb2b4d84b533840250364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -8}
+        - {x: 14, y: -9}
+        - {x: 12, y: -10}
+        - {x: 9, y: -11}
+        - {x: 6, y: -12}
+        - {x: 4, y: -13}
+        - {x: 2, y: -14}
+        - {x: -3, y: -13}
+        - {x: -5, y: -13}
+        - {x: -11, y: -14}
+        - {x: -16, y: -15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646ae22c5619c8149b3cee46212629f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_7
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 12, y: 0}
+        - {x: 10, y: -1}
+        - {x: 9, y: -2}
+        - {x: 8, y: -3}
+        - {x: 4, y: -4}
+        - {x: 1, y: -5}
+        - {x: -3, y: -6}
+        - {x: -5, y: -7}
+        - {x: -9, y: -11}
+        - {x: -11, y: -12}
+        - {x: -13, y: -13}
+        - {x: -16, y: -14}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4a376f49a4ed74a8caf6f264df2cf7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_8
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 16, y: 8}
+        - {x: 15, y: 8}
+        - {x: 14, y: 7}
+        - {x: 12, y: 6}
+        - {x: 8, y: 4}
+        - {x: 5, y: 3}
+        - {x: 1, y: 2}
+        - {x: 1, y: 1}
+        - {x: 2, y: 0}
+        - {x: 2, y: -2}
+        - {x: 1, y: -4}
+        - {x: -1, y: -5}
+        - {x: -3, y: -7}
+        - {x: -4, y: -6}
+        - {x: -9, y: -6}
+        - {x: -9, y: -7}
+        - {x: -7, y: -9}
+        - {x: -7, y: -10}
+        - {x: -9, y: -12}
+        - {x: -12, y: -13}
+        - {x: -16, y: -15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5b4df2585a587342b211666993e48d2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: 16}
+        - {x: 12, y: 15}
+        - {x: 10, y: 14}
+        - {x: 8, y: 15}
+        - {x: 4.9839935, y: 16}
+        - {x: -1, y: 16}
+        - {x: -6, y: 15}
+        - {x: -7, y: 14}
+        - {x: -7, y: 10}
+        - {x: -5, y: 6}
+        - {x: -3, y: 4}
+        - {x: -2, y: 1}
+        - {x: -3, y: -3}
+        - {x: -4, y: -5}
+        - {x: -5, y: -7}
+        - {x: -10, y: -12}
+        - {x: -13, y: -13}
+        - {x: -15, y: -14}
+        - {x: -16, y: -15}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85acf078a900901468a876e4e31998d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 14, y: -1}
+        - {x: 8, y: -3}
+        - {x: 7, y: -4}
+        - {x: 5.961155, y: -3.0000153}
+        - {x: 2, y: -3}
+        - {x: -1, y: -4}
+        - {x: -4, y: -5}
+        - {x: -8, y: -6}
+        - {x: -14, y: -7}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 0}
+        - {x: 15, y: 0}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cad3a08c9fe02649964efe1db5e7a0b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -2, y: 2}
+        - {x: -4, y: 1}
+        - {x: -7, y: -2}
+        - {x: -8, y: -4}
+        - {x: -10, y: -5}
+        - {x: -11, y: -6}
+        - {x: -14, y: -7}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 15, y: 8}
+        - {x: 13, y: 6}
+        - {x: 11, y: 5}
+        - {x: 9, y: 4}
+        - {x: 8, y: 3}
+        - {x: 7, y: 4}
+        - {x: 5, y: 4}
+        - {x: 1, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fdbe41cbeb78694f82dfe67d6feff5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: 16}
+        - {x: 12, y: 15}
+        - {x: 11, y: 13}
+        - {x: 5, y: 10}
+        - {x: 1, y: 9}
+        - {x: -1, y: 8}
+        - {x: -2, y: 7}
+        - {x: -4, y: 6}
+        - {x: -5, y: 4}
+        - {x: -7, y: 3}
+        - {x: -11, y: 2}
+        - {x: -11, y: 1}
+        - {x: -10, y: -1}
+        - {x: -10, y: -3}
+        - {x: -11, y: -6}
+        - {x: -14, y: -7}
+        - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37652f6e5a01c084391d17b90bf06a4b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 8}
+        - {x: 10, y: 7}
+        - {x: 4, y: 6}
+        - {x: 1, y: 5}
+        - {x: 1, y: 4}
+        - {x: 2, y: 3}
+        - {x: -1, y: 2}
+        - {x: -3, y: 1}
+        - {x: -5, y: -1}
+        - {x: -7, y: -2}
+        - {x: -10, y: -1}
+        - {x: -14, y: 0}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b91572dbf00e2f46ac64444f733270b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 16}
+        - {x: 14, y: 15}
+        - {x: 13, y: 13}
+        - {x: 9, y: 9}
+        - {x: 8, y: 11}
+        - {x: 6, y: 11}
+        - {x: 3, y: 10}
+        - {x: 1, y: 8}
+        - {x: -1, y: 6}
+        - {x: -3, y: 4}
+        - {x: -4, y: 3}
+        - {x: -7, y: 5}
+        - {x: -8, y: 5}
+        - {x: -10, y: 4}
+        - {x: -11, y: 2}
+        - {x: -11, y: 0}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c89400bb1ae7714b9f52b9d533ee212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: 16}
+        - {x: 14, y: 15}
+        - {x: 13, y: 14}
+        - {x: 11, y: 13}
+        - {x: 10, y: 12}
+        - {x: 9, y: 13}
+        - {x: 3, y: 13}
+        - {x: 3, y: 12}
+        - {x: 4, y: 10}
+        - {x: 3, y: 9}
+        - {x: 1, y: 8}
+        - {x: -1, y: 6}
+        - {x: -3, y: 5}
+        - {x: -4, y: 3}
+        - {x: -6, y: 4}
+        - {x: -8, y: 6}
+        - {x: -10, y: 6}
+        - {x: -12, y: 5}
+        - {x: -13, y: 4}
+        - {x: -14, y: 5}
+        - {x: -15, y: 8}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: abb4b02f8d650d54b8add8c7c9f8fb82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -3, y: 13}
+        - {x: -9, y: 13}
+        - {x: -10, y: 12}
+        - {x: -11, y: 13}
+        - {x: -13.056, y: 14.056015}
+        - {x: -15, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 8}
+        - {x: 15, y: 8}
+        - {x: 14, y: 5}
+        - {x: 13, y: 4}
+        - {x: 12, y: 5}
+        - {x: 10, y: 6}
+        - {x: 8, y: 6}
+        - {x: 5, y: 3}
+        - {x: 3, y: 5}
+        - {x: 1, y: 6}
+        - {x: -1, y: 8}
+        - {x: -3, y: 9}
+        - {x: -4, y: 9}
+        - {x: -3, y: 12}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 364df11dda44fc343ae58814a4577616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 0}
+        - {x: 11, y: 0}
+        - {x: 11, y: 2}
+        - {x: 10, y: 4}
+        - {x: 8, y: 5}
+        - {x: 7, y: 5}
+        - {x: 6, y: 4}
+        - {x: 5, y: 3}
+        - {x: 3, y: 4}
+        - {x: -3, y: 10}
+        - {x: -6, y: 11}
+        - {x: -8, y: 11}
+        - {x: -9, y: 9}
+        - {x: -13, y: 13}
+        - {x: -14, y: 15}
+        - {x: -15, y: 16}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba20792896333d64c95d955116816f5e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 5}
+        - {x: -4, y: 6}
+        - {x: -15, y: 8}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: 0}
+        - {x: 14, y: 0}
+        - {x: 10, y: -1}
+        - {x: 8, y: -2}
+        - {x: 5, y: -1}
+        - {x: 3, y: 1}
+        - {x: 1, y: 2}
+        - {x: -2, y: 2}
+        - {x: -1, y: 4}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4a8e384dcb08c40b24ce6c3d13fc59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 5, y: 4}
+        - {x: 4, y: 6}
+        - {x: 2, y: 7}
+        - {x: 1, y: 8}
+        - {x: -1, y: 9}
+        - {x: -5, y: 10}
+        - {x: -11, y: 13}
+        - {x: -12, y: 15}
+        - {x: -13.031235, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -8}
+        - {x: 14, y: -7}
+        - {x: 11, y: -6}
+        - {x: 10, y: -3}
+        - {x: 9, y: -2}
+        - {x: 10, y: -1}
+        - {x: 11, y: 1}
+        - {x: 11, y: 2}
+        - {x: 7, y: 3}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b628cd74df92ff547a8f31be78b2f305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 3}
+        - {x: -5, y: 4}
+        - {x: -7, y: 4}
+        - {x: -8, y: 3}
+        - {x: -9, y: 4}
+        - {x: -13, y: 6}
+        - {x: -15, y: 8}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -8}
+        - {x: 14, y: -7}
+        - {x: 11, y: -6}
+        - {x: 10, y: -5}
+        - {x: 8, y: -4}
+        - {x: 7, y: -2}
+        - {x: 6, y: -1}
+        - {x: 4, y: 1}
+        - {x: 2, y: 2}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f07c6a50be11694a808a42a88bf0e68
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 4, y: -5}
+        - {x: -2, y: -3}
+        - {x: -6, y: -3}
+        - {x: -7, y: -4}
+        - {x: -8, y: -3}
+        - {x: -14, y: -1}
+        - {x: -15, y: 0}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -8}
+        - {x: 14, y: -7}
+        - {x: 8, y: -6}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8931b5be8d599f84f871660d2458df89
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 15, y: -14}
+        - {x: 13, y: -13}
+        - {x: 10, y: -12}
+        - {x: 5, y: -7}
+        - {x: 4, y: -5}
+        - {x: 3, y: -3}
+        - {x: 2, y: -2}
+        - {x: 2, y: 3}
+        - {x: 5, y: 6}
+        - {x: 7, y: 10}
+        - {x: 7, y: 14}
+        - {x: 6, y: 15}
+        - {x: 1.1456661, y: 16}
+        - {x: -5, y: 16}
+        - {x: -8, y: 15}
+        - {x: -10, y: 14}
+        - {x: -12, y: 15}
+        - {x: -14, y: 16}
+        - {x: -16, y: 16}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -15}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfd72ea92fc9cc849bf2aff507b41bdc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -1, y: 2}
+        - {x: -5, y: 3}
+        - {x: -8, y: 4}
+        - {x: -14, y: 7}
+        - {x: -15, y: 8}
+        - {x: -16, y: 8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -15}
+        - {x: 12, y: -13}
+        - {x: 9, y: -12}
+        - {x: 7, y: -10}
+        - {x: 7, y: -9}
+        - {x: 9, y: -7}
+        - {x: 9, y: -6}
+        - {x: 4, y: -6}
+        - {x: 3, y: -7}
+        - {x: 2, y: -6}
+        - {x: 1, y: -5}
+        - {x: -1, y: -4}
+        - {x: -2, y: -2}
+        - {x: -3, y: -1}
+        - {x: -1, y: 1}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f361f077e17b92e4abfa947dd51207b8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_24
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: 13, y: -13}
+        - {x: 9, y: -11}
+        - {x: 8, y: -10}
+        - {x: 6, y: -8}
+        - {x: 5, y: -7}
+        - {x: 3, y: -6}
+        - {x: -1, y: -5}
+        - {x: -4, y: -4}
+        - {x: -8, y: -3}
+        - {x: -10, y: -1}
+        - {x: -12, y: 0}
+        - {x: -16, y: 0}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -14}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87bbf6af705e3d44b8e087955a67527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mars_Tilemap_25
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape:
+      - - {x: -16, y: -8}
+        - {x: -16, y: -16}
+        - {x: 16, y: -16}
+        - {x: 16, y: -15}
+        - {x: 11, y: -14}
+        - {x: 5, y: -13}
+        - {x: 3, y: -13}
+        - {x: 0, y: -14}
+        - {x: -4, y: -13}
+        - {x: -6, y: -12}
+        - {x: -12, y: -10}
+        - {x: -14, y: -9}
+        - {x: -15, y: -8}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a360db711e0cb6447ae8d51b0b283787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 1e5d883745c062244874491599d25b97
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

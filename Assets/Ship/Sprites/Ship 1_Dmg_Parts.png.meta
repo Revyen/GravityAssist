@@ -1,0 +1,270 @@
+fileFormatVersion: 2
+guid: 9a2ae9763f1ea1f40a776ee08e5458c3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ship 1_Dmg_Parts_0
+    21300002: Ship 1_Dmg_Parts_1
+    21300004: Ship 1_Dmg_Parts_2
+    21300006: Ship 1_Dmg_Parts_3
+    21300008: Ship 1_Dmg_Parts_4
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Ship 1_Dmg_Parts_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 8
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2.2698555, y: 8}
+        - {x: -2.5, y: 8}
+        - {x: -6.5, y: 6}
+        - {x: -5.14485, y: -0.036898613}
+        - {x: -6.5, y: -6}
+        - {x: -2.118864, y: -8}
+        - {x: 2.31983, y: -8}
+        - {x: 6.5, y: -7.44903}
+        - {x: 6.5, y: 7.591873}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1be61d463f369a458d277d717d711d0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship 1_Dmg_Parts_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6.5, y: 5}
+        - {x: 1.5, y: 5}
+        - {x: -6.5, y: -1.0739727}
+        - {x: -6.5, y: -2.3757381}
+        - {x: -3.0113983, y: -2.4963017}
+        - {x: -2.8705463, y: -5}
+        - {x: 0.5, y: -5}
+        - {x: 1.5, y: -4}
+        - {x: 5.5, y: 1}
+        - {x: 6.5, y: 1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 00ec29900e3fb9244970c191e674578e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship 1_Dmg_Parts_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 13
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 3}
+        - {x: -4.5, y: -3}
+        - {x: 4.5, y: -3}
+        - {x: 4.5, y: 3}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d7dd0a2e72c8a46aa5119b2daf33e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship 1_Dmg_Parts_3
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0.5, y: 5}
+        - {x: -2.9477139, y: 5}
+        - {x: -3.0148602, y: 2.4881878}
+        - {x: -6.5, y: 2.3139782}
+        - {x: -6.5, y: -1}
+        - {x: 1.5, y: -5}
+        - {x: 6.5, y: -5}
+        - {x: 6.5, y: -1}
+        - {x: 5.5, y: -1}
+      physicsShape: []
+      tessellationDetail: 1
+      bones: []
+      spriteID: 2ab41591e0c1df44d9421e2cc2039905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Ship 1_Dmg_Parts_4
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 11
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4.5, y: 5}
+        - {x: -4.5, y: -5}
+        - {x: 4.5, y: -5}
+        - {x: 4.5, y: 5}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9041492c984e9c947984e3917bedeed4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline:
+    - - {x: 14, y: -11}
+      - {x: 10, y: -7}
+      - {x: 15, y: -7}
+      - {x: 16, y: -6}
+      - {x: 16, y: 6}
+      - {x: 15, y: 7}
+      - {x: 10, y: 7}
+      - {x: 15, y: 11}
+      - {x: 16, y: 12}
+      - {x: 16, y: 16}
+      - {x: 12, y: 16}
+      - {x: 10, y: 15}
+      - {x: -9, y: 5}
+      - {x: -12, y: 5}
+      - {x: -16, y: 3}
+      - {x: -16, y: -3}
+      - {x: -12, y: -5}
+      - {x: -9, y: -5}
+      - {x: 10, y: -15}
+      - {x: 12, y: -16}
+      - {x: 16, y: -16}
+      - {x: 16, y: -12}
+      - {x: 15, y: -11}
+    physicsShape: []
+    bones: []
+    spriteID: e20d12b781bb12c449ff335b5e94e481
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
